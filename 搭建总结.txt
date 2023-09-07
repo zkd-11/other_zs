@@ -1,0 +1,20 @@
+ChatGPT Next Web：
+
+https://www.youtube.com/watch?v=oarA20sp0ck&t=581s
+搭建技巧： 
+Vercel注册时  要求gitHub账户需要为- 谷歌邮箱！！ （提前改为主邮箱）
+否则 注册失败
+
+api使用- 用于聊天 token  懂为什么别人大量卖账号
+
+5美金 = 5元一个账户
+
+
+
+
+1. 需先fork项目
+2. 傻瓜式一键操作
+3. apiKey填入后， 在openAI菜单键， 用户下拉框 选择 view-api-key
+   code- 设置密码 （登录验证）， 以 , 分割
+
+4. 域名解析- 转换为自己的网站
